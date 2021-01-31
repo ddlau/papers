@@ -57,4 +57,4 @@
 
 - [ ] Deterministic Policy Gradient Algorithms
 - [ ] CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
-- [ ] Distributed Distributional Deterministic Policy Gradients
+- [ ] [Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/abs/1804.08617)
