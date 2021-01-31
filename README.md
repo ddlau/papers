@@ -56,3 +56,4 @@
 # PART II
 
 - [ ] Deterministic Policy Gradient Algorithms
+- [ ] CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
