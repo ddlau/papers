@@ -58,5 +58,11 @@
 - [ ] Deterministic Policy Gradient Algorithms
 - [ ] CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
 - [ ] Distributed Distributional Deterministic Policy Gradients[1](https://arxiv.org/abs/1804.08617)
+
+## FIM & NGD & TRM
+
+- [ ] Natural Gradient Works Efficiently in Learning [1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.7280&rep=rep1&type=pdf)
+- [ ] A Natural Policy Gradient [1](https://papers.nips.cc/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf)
+- [ ] Approximately Optimal Approximate Reinforcement Learning [1](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - [ ] Trust Region Policy Optimization
 
