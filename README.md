@@ -51,6 +51,8 @@
 ## Unclassified
 
 - [ ] Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+- [ ] High-Dimensional Continuous Control Using Generalized Advantage Estimation
+
 
 
 # PART II
@@ -68,4 +70,9 @@
 - [ ] Approximately Optimal Approximate Reinforcement Learning [1](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - [ ] New insights and perspectives on the natural gradient method
 - [ ] Trust Region Policy Optimization
+- [ ] TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow
+- [ ] Proximal Policy Optimization Algorithms
+- [ ] Emergence of Locomotion Behaviours in Rich Environments
+- [ ] Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO
+
 
