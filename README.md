@@ -57,9 +57,9 @@
 
 ## DPG
 
-- [ ] Deterministic Policy Gradient Algorithms
-- [ ] CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
-- [ ] Distributed Distributional Deterministic Policy Gradients[1](https://arxiv.org/abs/1804.08617)
+- [X] Deterministic Policy Gradient Algorithms
+- [X] CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
+- [X] Distributed Distributional Deterministic Policy Gradients[1](https://arxiv.org/abs/1804.08617)
 
 ## FIM & NGD & TRM
 
