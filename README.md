@@ -69,7 +69,8 @@
 - [ ] Approximately Optimal Approximate Reinforcement Learning [1](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - [ ] New insights and perspectives on the natural gradient method
 - [X] **High-Dimensional Continuous Control Using Generalized Advantage Estimation**
-- [ ] **Trust Region Policy Optimization**
+- [X] **Trust Region Policy Optimization**
+- [ ] Sample Efficient Actor-Critic with Experience Replay
 - [ ] TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow
 - [ ] Proximal Policy Optimization Algorithms
 - [ ] Emergence of Locomotion Behaviours in Rich Environments
