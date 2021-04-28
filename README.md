@@ -72,6 +72,7 @@
 - [X] **High-Dimensional Continuous Control Using Generalized Advantage Estimation**
 - [ ] **Generative Adversarial Imitation Learning**
 - [ ] Sample Efficient Actor-Critic with Experience Replay
+- [ ] Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation
 - [ ] TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow
 - [ ] Proximal Policy Optimization Algorithms
 - [ ] Emergence of Locomotion Behaviours in Rich Environments
