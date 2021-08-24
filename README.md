@@ -78,4 +78,14 @@
 - [ ] Emergence of Locomotion Behaviours in Rich Environments
 - [ ] Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO
 
+# FLANKS
+
+## CNN
+
+### NECKS
+
+- [X] FPN - Feature Pyramid Networks for Object Detection
+
+## OBJECT DETECTION
+
 
