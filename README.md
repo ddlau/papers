@@ -84,8 +84,10 @@
 
 ### NECKS
 
-- [ ] SPP - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+- [X] SPP - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 - [X] FPN - Feature Pyramid Networks for Object Detection
+- [ ] PAN - Path Aggregation Network for Instance Segmentation
+
 
 ## OBJECT DETECTION
 
