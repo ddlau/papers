@@ -82,11 +82,16 @@
 
 ## CNN
 
+### BACKBONES
+
+- [ ] CSP - CSPNet: A New Backbone that can Enhance Learning Capability of CNN
+
+
 ### NECKS
 
 - [X] SPP - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 - [X] FPN - Feature Pyramid Networks for Object Detection
-- [ ] PAN - Path Aggregation Network for Instance Segmentation
+- [X] PAN - Path Aggregation Network for Instance Segmentation
 
 
 ## OBJECT DETECTION
