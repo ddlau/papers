@@ -80,6 +80,10 @@
 
 # FLANKS
 
+## ATTENTION
+
+- [X] CBAM - CBAM: Convolutional Block Attention Module
+
 ## CNN
 
 ### BACKBONES
