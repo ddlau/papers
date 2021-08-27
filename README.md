@@ -82,13 +82,14 @@
 
 ## ATTENTION
 
+- [ ] SE - Squeeze-and-Excitation Networks
 - [X] CBAM - CBAM: Convolutional Block Attention Module
 
 ## CNN
 
 ### BACKBONES
 
-- [ ] CSP - CSPNet: A New Backbone that can Enhance Learning Capability of CNN
+- [X] CSP - CSPNet: A New Backbone that can Enhance Learning Capability of CNN
 
 
 ### NECKS
