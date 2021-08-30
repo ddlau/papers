@@ -80,6 +80,18 @@
 
 # FLANKS
 
+## NORMALIZATION
+
+- [ ] BN - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+- [ ] LN - Layer Normalization
+- [ ] IN - Instance Normalization: The Missing Ingredient for Fast Stylization
+- [ ] GN - Group Normalization
+- [ ] BIN - Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks
+- [ ] BRN - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models
+- [X] CBN - Cross-Iteration Batch Normalization
+
+
+
 ## ATTENTION
 
 - [ ] SE - Squeeze-and-Excitation Networks
