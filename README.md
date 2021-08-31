@@ -80,6 +80,11 @@
 
 # FLANKS
 
+## Data/Image Augmentation
+
+- [X] CutOut - Improved Regularization of Convolutional Neural Networks with Cutout
+
+
 ## NORMALIZATION
 
 - [ ] BN - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
