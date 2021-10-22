@@ -119,3 +119,11 @@
 ## OBJECT DETECTION
 
 
+## Pose Estimation
+- [X] Pose Machines: Articulated Pose Estimation via Inference Machines
+- [X] Convolutional Pose Machines
+- [X] Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+- [X] OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+
+
+
