@@ -124,6 +124,7 @@
 - [X] Convolutional Pose Machines
 - [X] Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 - [X] OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+- [ ] PARE: Part Attention Regressor for 3D Human Body Estimation
 
 
 
