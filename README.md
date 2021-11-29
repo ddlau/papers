@@ -104,6 +104,13 @@
 
 ## CNN
 
+- [X] AlexNet - ImageNet Classification with Deep Convolutional Neural Networks
+- [X] ZFNet - Visualizing and Understanding Convolutional Networks
+- [ ] dropout - Improving neural networks by preventing co-adaptation of feature detectors
+- [ ] maxout - Maxout Networks
+- [ ] Network In Network
+- [ ] VGG - Very Deep Convolutional Networks for Large-Scale Image Recognition
+
 ### BACKBONES
 
 - [X] CSP - CSPNet: A New Backbone that can Enhance Learning Capability of CNN
